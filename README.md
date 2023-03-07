@@ -1,2 +1,3 @@
-# Imersao-alura-javaScript
- Estudos
+# Imersao-JavaScript
+
+Imersão Alura
